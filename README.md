@@ -6,4 +6,4 @@ Há varios arquivos em .txt que são utilizados para compor todos os dados utili
 Aqui está o link para o aquivo bruto com esses dados.
 https://www.ssa.gov/oact/babynames/limits.html
 
-Ainda estou em desenvolvimento com o projeto
+O projeto está finalizado, com todas as análise feitas em cima dos dados
